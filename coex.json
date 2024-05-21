@@ -1,0 +1,18 @@
+{
+    "models": [
+      {
+        "type": "gltf",
+        "modelName": "코엑스",
+        "fileName": "https://api-assets.dabeeomaps.com/wind-simulation/wind-data/240426/model/coex",
+        "transform": {
+          "position": {
+            "x": 2235,
+            "y": 2105,
+            "z": 0
+          },
+          "rotation": { "x": 90, "y": 113, "z": 0 },
+          "scale": { "x": 4.3, "y": 4.3, "z": 4.3 }
+        }
+      }
+    ]
+  }
